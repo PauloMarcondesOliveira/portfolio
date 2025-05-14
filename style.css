@@ -1,0 +1,48 @@
+.Titulo{
+    background-color: grey;
+    color: white;
+    
+    text-align: center;
+    font-weight: bold;
+
+    display: flex;
+
+    margin-bottom: 4%;
+}
+
+a{
+    color: inherit;
+}
+
+.nome{
+    margin-left: 25%;
+}
+
+.sobre{
+    position: absolute;
+    margin-left: 70%;
+}
+
+.cabeca{
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-bottom: 5px;
+
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.conteudo{
+    width: 55%;
+    height: 170px;
+
+    background-color: rgb(248, 230, 197);
+    box-shadow: 2px 2px 4px burlywood;
+    
+    margin-left: 4.1%;
+    
+    font-size: 20px;
+
+    padding:.3em .5em .1em 2em;
+
+}
